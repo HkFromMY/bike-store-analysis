@@ -1,5 +1,6 @@
 # Problem Statement
-![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/33b85297-12db-4056-ac13-33357e16214e)
+![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/76385242-bb2d-41d0-afd6-b0f21df9b512)  
+
 Trek Bikes corporation is a popular bicycle manufacturing and retailer company that started their business in 1976, Waterloo, Wisconsin with over 40 years of operation to date. To make biking more accessible to the community, this business is started to make the bicycle available to more people with lower price and better quality so that everyone can enjoy biking as sport or entertainment without stressing too much on the cost. Therefore, the very core value of the company is to be innovative in creating the products to provide the best quality for the customers while preserving the environment as much as possible for sustainable goals. To further increase the business visibility in its E-commerce platform to more customers for larger market share, BI system is implemented to utilize the available data generated via the E-commerce platform to construct data-driven business strategies. 
 
 # Tools Used
@@ -26,8 +27,9 @@ Trek Bikes corporation is a popular bicycle manufacturing and retailer company t
 10.	The lower the commute distance, the higher the demand for the bike as bike is more convenient than car.
 
 # Findings & Recommendations
-## Sales Dashboard
-![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/c48c6b23-01cd-4f05-8c63-f1a984bcac77)
+## Internet Sales Dashboard
+![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/52521fb1-6663-4b35-b383-1b5c28849953)  
+
 **Analysis:**
 1. There is a big increase from 4th quarter of 2012 to 2013 in terms of sales amount and the number of orders placed which is because of the distribution of promotional events and new product launch. 
 2. The other reason to the great increase in the sales amount is also because of the US government's planning to expand the bicycle routing system.
@@ -40,7 +42,10 @@ Trek Bikes corporation is a popular bicycle manufacturing and retailer company t
 3. Collaborate with reputable manufacturers to increase the quality of the product delivered to the customers.
 
 ## Product Dashboard
-![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/a6cea9c1-41b0-42bb-86b9-150b114878a6)
+![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/068e79ba-7b15-40a4-8889-460653bbb898)  
+![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/1b195c9f-1613-4707-99c2-93cbafb4db99)  
+![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/cfc349d0-49e2-4a96-857f-0e96a7899c69)  
+
 **Analysis:**
 1. There is good stocking management and practices because the number of units in and out are close to each other which indicates that there is no overstocking issues. There is also seasonal pattern in the units out which can be used to predict and forecast the number of units that will be stocked into the warehouse.
 2. New product launched, which is the accessories type of products that are affordable purchased by more customers which leads to the increase in popularity and exposure of the Trek Bikes. 
@@ -51,7 +56,11 @@ Trek Bikes corporation is a popular bicycle manufacturing and retailer company t
 3. Conduct promotional events for clothing products due to their low popularity and sales.
 
 ## Customer Dashboard
-![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/3fa428dd-d222-45fa-af58-4176c6cfcd92)
+![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/63826769-d331-4ce7-98bd-f434d571f904)  
+![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/f0ff56d1-bada-4fb5-b86e-3844336d178b)  
+![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/010568ec-eaba-4a7f-adc0-59594581cac2)  
+![image](https://github.com/HkFromMY/bike-store-analysis/assets/48499555/1c9736af-04eb-4241-ac20-3d3b653cc4af)  
+
 **Analysis:**
 1. Customer with lower commute distance orders more items from Trek Bikes as they may use the bicycle as the main transportation method.
 2. The customers start losing interest in bicycle products when they own more than 2 cars.
